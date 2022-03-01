@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Grace, his Majesties high commissioner, and Honourable Estates of Parliament, The petition of Patrick Porterfield of Comistoun, and other heritors near adjecent to the town of Edinburgh.</title>
+            <author>Porterfield, Patrick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04786</idno>
+            <idno type="STC">Wing P3000B</idno>
+            <idno type="STC">ESTC R181967</idno>
+            <idno type="EEBO-CITATION">52614844</idno>
+            <idno type="OCLC">ocm 52614844</idno>
+            <idno type="VID">176013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176013)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2759:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Grace, his Majesties high commissioner, and Honourable Estates of Parliament, The petition of Patrick Porterfield of Comistoun, and other heritors near adjecent to the town of Edinburgh.</title>
+                  <author>Porterfield, Patrick.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: creased, print show-through with loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Water-supply --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Wells --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:176013:1"/>
+            <head>To his Grace His Majeſties High Commiſſioner, and Honourable Eſtates of Parliament<hi rend="sup">.</hi>
+            </head>
+            <head>The Petition of <hi>Patrick Porterfield</hi> of <hi>Comiſtoun,</hi> And other Heritors near Adjacent to the Town of <hi>Edinburgh,</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THAT there being an Act preſented in Parliament upon <hi>Friday</hi> the four<g ref="char:EOLhyphen"/>teenth day of <hi>June</hi> inſtant, by the Magiſtrates of <hi>Edinburgh,</hi> Making mention, That the ſaids Magiſtrates had been at Vaſt Expences in pur<g ref="char:EOLhyphen"/>chaſing <hi>Toddies well,</hi> and ſome other Springs, And in making of Lead-Pipes, Conduites; and Ciſterns, for conveying in the ſame to <hi>Edinburgh,</hi> And that the ſaids Fountains do not furniſh ſufficiencie of Water for the Numerous Inhabitants of the ſaid City, and others thereto Reſorting; And that in the time of Drought or Froaſts, the ſame do furniſh little or no Water. And it being neceſ<g ref="char:EOLhyphen"/>ſar for perfecting their Deſign, That <hi>Comiſtoun</hi> and all other adjacent Heritors be ob<g ref="char:EOLhyphen"/>lieged to ſell and diſpone to the ſaids Magiſtrates, ſuch Wells and Fountains as may be neceſſar for the uſe of the Burgh, Together with the Ground needfull, lying about the ſaids Wells, for preſerving the ſame; And for laying of the Pipes and Conduites, for bringing in of the ſaid Water to the Pipes, and Ciſterns already made; Therefore His Majeſtie, &amp;c. did impower the Lords of Privy Council to call before them the Laird of <hi>Comiſtoun,</hi> and any other Heritors that may be con<g ref="char:EOLhyphen"/>cerned, and whether they appear or not, To cauſe Appretiate any Wells or Springs belonging to <hi>Comiſtoun,</hi> or the ſaids other Heritors, as might be uſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full for the Town of <hi>Edinburgh,</hi> with the Ground next adjacent thereto; And upon their con<g ref="char:EOLhyphen"/>ſignation of the ſumms, at which the ſamen ſhould happen to be appretiate, To decern <hi>Comiſtoun</hi> and all the other Heritors and Superiours, To make R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſignation thereof in the Towns Favours. To the effect they may hold the ſamen immediately of the King; And that <hi>Comiſtoun</hi> and the other Heritors may be diſcharged to Digg, Hew, or ſet down any Pitts, Holes, or Sinks, near to the ſaids Wells·</p>
+            <p>This Act was appointed to ly on the Table till Thurſday, the 20th: inſtant, To the effect that <hi>Comiſtoun</hi> and the other Heritors concerned, may give in their Ob<g ref="char:EOLhyphen"/>jections againſt the ſame; And ſeeing the ſaid Act is principally intended againſt <hi>Comiſtoun,</hi> He Humbly craves Liberty to Repreſent to my Lord Commiſſioner, his Grace, and the Honourable Eſtates of Parliament, The Severe and Hard meaſures he hath already mett with from the Town of <hi>Edinburgh;</hi> And what further preju<g ref="char:EOLhyphen"/>dice he is juſtly apprehenſive of from Them, in caſe the foreſaid Act ſhould paſs in their Favours.</p>
+            <p>
+               <hi>Comiſtouns</hi> Mother having (in his Minority) diſponed <hi>Toddies well,</hi> and ſix Ells round the ſame, to the Town of <hi>Edinburgh,</hi> for the ſumm of 1000 me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks <hi>Scots</hi> al<g ref="char:EOLhyphen"/>lenerly, to be holden Few of her ſelf, and her Succeſſours, for yearly payment of four pounds <hi>Scots.</hi> She took them expreſly oblieged to Repair all the Dammage ſhe ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld ſuſtain by the breaking her ground to lay in their Pipes, &amp;c. And ſhe was ſo apprehenſive of their further Encroachments, That in caſe the ſaids <hi>Todds-well</hi> were not ſufficient to ſerve the Town with Water. They ſhould be oblieged to ſupply the ſame from the upper Springs in <hi>Pentland hills;</hi> And ſhe was only oblieged to allow them liberty to convey their Pipes to <hi>Todds-well.</hi>
+            </p>
+            <p>Albeit the Lady <hi>Comiſtoun,</hi> nor her Son after he ſucceeded in her Right, did never violate any Article of that Contract in the leaſt; Yet the Town of <hi>Edinburgh</hi> did uſe many Acts of Oppreſſion againſt <hi>Com<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtoun;</hi> 1mo. By caſting up his ground, and
+<pb n="2" facs="tcp:176013:2"/>leaving many Pitts and Stanks open therein, by which many of the Beſtial did periſh in the Winter. 2do. They did by open Bangſtrie and Oppreſſion take in other two Wells, to which they can pretend no imaginary Right, and builded houſes over the ſaids Wells. 3tio. When <hi>Comiſtoun</hi> came with a Notar and Witneſ<g ref="char:EOLhyphen"/>ſes, and made civil Interruption againſt the ſaid unjuſt Encroachment and Oppreſ<g ref="char:EOLhyphen"/>ſion, They did purſue him before the Privy Council as guilty of a Ryot; And did thereby put him to very great Trouble and Expences, albeit he was Aſſoilzied from that complaint by the Juſtice of the Privy Council. 4to. They ſtill retain the ſaids two Wells ſo unwarrantably robbed by Them, and thereby <hi>Comiſtoun</hi> has neither a wholeſome Spring for the uſe of his own Family, Nor any convenient watering place for his Cattel: And after <hi>Comiſtoun</hi> was Aſſoilzied from their com<g ref="char:EOLhyphen"/>plaint before the Privy Council, One of the Members of the Town Council of <hi>E<g ref="char:EOLhyphen"/>dinburgh,</hi> did in preſence of the Magiſtrates themſelves, Threaten <hi>Comiſtoun</hi> to his Face, By ſaying. <hi>That if he offered to Debate with them, they ſhould ruine him intirely, as they formerly had done the Laird of</hi> Reſtaltig.</p>
+            <p>The Laird of <hi>Comiſtoun</hi> hath lately found our upon his ground both a Lime-Stone-Quarrie, with a good Coal, and a very good Copper mine; And having ſet down a Sink for his Coal, And a quantitie of his Copper being alreadie melted, and found ſufficient; And he being in Terms of a Bargain with ſome <hi>Engliſhmen</hi> for his Copper, by which he expects more benefite in time coming than three times the Value of his yearly Rent will amount to. This Act is levelled and contrived principally againſt <hi>Comiſtoun</hi> to fruſtrate the well grounded hopes he hath of his Copper, Coal, and Lime-ſtone: And therefore he humbly expects from the Juſtice of the High Court of Par<g ref="char:EOLhyphen"/>liament. That no ſuch Act can paſs in Favours, of the Town of <hi>Edinburgh,</hi> to his ſo great and evident prejudice; Becauſe, 1mo. <hi>Comiſtouns</hi> Wells being his uncontraver<g ref="char:EOLhyphen"/>ted Property, And the Inheritance of his Fathers; No Law can Obliege him to Sell or Diſpone them to any other perſon; Eſpecially, where his retaining and re<g ref="char:EOLhyphen"/>fuſing to diſpone the ſame. cannot be pretended to be done, <hi>In Aemulationem,</hi> But only for the Conveniencie and neceſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Accommodation of his own Family and Lands, it being impoſſible for him to Live, or keep the Lands, Tennants-ſtead without theſe Wells, And he hath, <hi>de facto,</hi> been neceſſitate to keep the mains of <hi>Comiſtoun</hi> in his own hand, Becauſe, no Tennant will take it from him, for fear of the Town of <hi>Edinburghs</hi> Encrocahment and Oppreſſion, For ſeeing they uſed <hi>Comi<g ref="char:EOLhyphen"/>ſtoun</hi> himſelf in manner above repreſented, What could a poor Tennant expect to meet with from them. 2do. As it is an uncontraverted principle, <hi>That Water is the Mother of Coals, and all other Minerals;</hi> So Coals and all other Minerals are found near to Springs of Water, And ſeeing that Coals and Copper cannot be wrought with<g ref="char:EOLhyphen"/>out Sinks and Levels, And that the ſetting down and working thereof doth frequently Drain and take away the Water from theſe Springs; The allowing of theſe Springs to the Town of <hi>Edinburgh;</hi> And diſcharging to ſet down a Sink near to theſe Wells, imports no leſs than to diſcharge <hi>Comiſtoun</hi> from working of his Coal and Copper-Mines. The Town of <hi>Edinburgh</hi> may as well crave, That <hi>Comiſtoun</hi> may be Forefei<g ref="char:EOLhyphen"/>ted (albeit he be guilty of no Crime, and that his Forefeiture may be gifted to the Town of <hi>Edinburgh.</hi>)</p>
+            <p n="3">3tio. If the ſaid Act ſhould be paſt, <hi>Comiſtoun</hi> ſhould be abſolutely debarred from inmp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oving his Ground by Ditching, Incloſing and Planting; Becauſe all Incloſures are uſeleſs where there is no Water; And where can <hi>Comiſtoun</hi> have Water when all his Springs and Wells are by Act of Parliament, Appropriat and Declared to belong to the Town of <hi>Edinburgh.</hi> 4to. By this Act as it is conceived, Neither <hi>Comiſtoun</hi> nor any of his Tennents can have as much as Water, for their own Families, or the uſe of his Carrel, without a Licence from the Town of <hi>Edinburgh;</hi> And they might pre<g ref="char:EOLhyphen"/>tend to bring their Water through his own Cloſs, Dwelling houſe, or Gardens, or through the Tennants Dwelling-houſes; or Corn-yeards, &amp;c. And what an intolle<g ref="char:EOLhyphen"/>rable Servitude would this prove upon all <hi>Comiſtouns</hi> Eſtate? And whither or not the ſame might in a ſhort time lay the Eſtate intirely waſte, if ſetled in ſuch potent hands as the Town of <hi>Edinburgh</hi> is known to be, and whither or not, any rationall man, would pay an a adequat price for lands affected with ſuch an intolerable ſervitud
+<pb n="3" facs="tcp:176013:2"/>in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>av<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urs of the Town, Is referred to the conſideration of this high and Honourable Court. 5to. The former grounds are likewayes propond for all the other Adjacent Heritors, Becauſe if the ſaid Act were paſt, they would be lyable to the Servitude and Dammages above repreſented, and the Town of <hi>Edinburgh</hi> would thereby have the ſame pretence to inſult over them, and oppreſs their Intereſt, and keep them from improvement thereof, which they crave by the ſaid Act againſt the Laird of <hi>Comi<g ref="char:EOLhyphen"/>ſtoun.</hi> 6to. To convince your Grace, and the Honourable Eſtates of Parliament, That the Town of <hi>Edinburghs</hi> true deſign in this affair. is only to fix an intolerable Servitude upon <hi>Comiſtoun,</hi> and the hail other Adjacent Heritors, and to hinder them from the lawful Improvements of their own Intereſts, There are more Springs upon <hi>Pentland Hills,</hi> a little above <hi>Toddies well,</hi> and which may eaſily be brought down, and conveyed to that <hi>Toddies well,</hi> without doing the leaſt prejudice to any Mans Pro<g ref="char:EOLhyphen"/>perty, than will ſerve the Town of <hi>Edinburgh</hi> three times over: And <hi>Comiſtoun</hi> is ex<g ref="char:EOLhyphen"/>preſly obliedged by his Mothers Contract, to allow them Liberty to convey the Springs from <hi>Pentland hills</hi> to <hi>Toddies well;</hi> So that ſeeing the Town may be abundant<g ref="char:EOLhyphen"/>ly ſerved that way. It were above all meaſure hard to allow the Town of <hi>Edinburgh</hi> ſuch an intollerable Seruitude upon <hi>Comiſtoun</hi> and the other Heritors, ſo much to their prejudice, Eſpecially, ſeeing the Sinks ſet down, and to be ſet down by <hi>Comiſtoun,</hi> and other Improvements intended by him, are at ſuch a diſtance from <hi>Toddies well,</hi> and from the Springs which they may have from <hi>Pentland hills,</hi> That they neither are, nor ever can be prejudged therey in the leaſt.</p>
+            <p>
+               <hi>May it therefore pleaſe your Grace, and the Honourable Eſtates of Parliament, To conſider the Premiſſes, and the great Pre<g ref="char:EOLhyphen"/>judice and Servitude, if not the total ruine of our Fortunes, deſigned againſt us by the Town of</hi> Edinburgh, <hi>in the foreſaid Act, and to reject the ſame as unjuſt and unreaſonable.</hi> And your Petitioners ſhall ever Pray, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:176013:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
